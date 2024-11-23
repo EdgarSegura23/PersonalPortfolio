@@ -1,0 +1,29 @@
+{
+  "name": "personalportfolio",
+  "version": "1.0.0",
+  "description": "Portafolio Personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EdgarSegura23/PersonalPortfolio.git"
+  },
+  "keywords": [
+    "HTML",
+    "SASS",
+    "JS",
+    "NODEJS",
+    "GULP"
+  ],
+  "author": "Edgar Segura | Github: @EdgarSegura23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarSegura23/PersonalPortfolio/issues"
+  },
+  "homepage": "https://github.com/EdgarSegura23/PersonalPortfolio",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
