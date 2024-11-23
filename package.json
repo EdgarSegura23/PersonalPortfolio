@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/EdgarSegura23/PersonalPortfolio",
   "devDependencies": {
-    "gulp": "^5.0.0"
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.81.0"
   }
 }
